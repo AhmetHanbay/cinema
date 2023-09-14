@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Borel-Regular.ttf",
+      "sha1": "93af82eec3087358e36d188076acee45492dad6a"
+    },
+    {
+      "path": "assets/fonts/CherryBombOne-Regular.ttf",
+      "sha1": "3cff461d1184264a261d62abce5d017d445411e8"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Italic-VariableFont_wght.ttf",
+      "sha1": "6c47591a940e3c86a268d5bed1e151214eb4d1df"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-VariableFont_wght.ttf",
+      "sha1": "ad2439d6f0dfc795c4dbefb342383f9f02810427"
+    },
+    {
+      "path": "assets/fonts/TiltPrism-Regular-VariableFont_XROT,YROT.ttf",
+      "sha1": "a01c01ff32fb83417e43114b61d839df29570674"
+    }
+  ]
+}
